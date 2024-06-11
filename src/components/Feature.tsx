@@ -21,7 +21,7 @@ function Feature() {
         <div className='w-fit mx-auto self-end '>
           <Image 
           className= "w-[100%] max-w-[400px] sm:max-w-full h-auto shadow-2xl rounded-3xl"
-          src='/hero3.jpg'
+          src='/hero2.jpg'
           width={300}
           height={600}
           alt="grid image" 
@@ -62,8 +62,8 @@ function Feature() {
           <Image 
           className= "w-[100%] max-w-[400px] sm:max-w-full h-auto shadow-2xl rounded-3xl"
           src='/tail2.jpg'
-          width={300}
-          height={600}
+          width={200}
+          height={500}
           alt="grid image" 
           />
 
