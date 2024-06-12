@@ -11,9 +11,9 @@ function Feature() {
       </h2>
 
       <p className="max-w-[550px] pt-10 text-gray-700">
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa placeat
-        repellat expedita tempore hic iste. Laborum odit illo ex nostrum! Lorem
-        ipsum dolor sit amet.
+      When looking at a bar menu, the cocktail list can seem endless, 
+      but you can never go wrong with a classic. Every year, The Joint announces its bestselling classic cocktails. 
+      From margaritas to martinis, scroll through to see the bestselling cocktails and order some.
       </p>
       < Dash />
 
