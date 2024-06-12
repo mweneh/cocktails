@@ -11,7 +11,7 @@ const menuData = [
    desc:"Description"
   },
   {
-    img: "magarita.jpg",
+    img: "/magarita.jpg",
     title: "Magarita",
     desc: "Tequila,Triple sec,Lime , Contemporary Classics, Alcoholic,Cocktail glass",
     price: "$9.50",
