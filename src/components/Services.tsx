@@ -6,22 +6,22 @@ const servicesData = [
   {
     img: "/services__1.png",
     title: "Professional Mixology",
-    desc: "Our expert mixologists craft unique and delicious cocktails tailored to your tastes, using only the finest ingredients.",
+    desc: "Our expert mixologists craft unique and delicious cocktails tailored to your tastes.",
   },
   {
     img: "/services__2.png",
     title: "Delivery",
-    desc: "Enjoy our exquisite cocktails delivered straight to your door. Perfect for parties, events, or a relaxing evening at home.",
+    desc: "Enjoy our exquisite cocktails delivered straight to your door.",
   },
   {
     img: "/services__3.png",
     title: "Wine List",
-    desc: "Discover our curated selection of fine wines from around the world, each chosen to complement our cocktail offerings.",
+    desc: "Discover our curated selection of fine wines from around the world.",
   },
   {
     img: "/services__4.png",
     title: "Free WiFi",
-    desc: "Stay connected while you enjoy our drinks. Our venue offers free WiFi for all customers, making it a great place to work or socialize.",
+    desc: "Stay connected while you enjoy our drinks. Our venue offers free WiFi for all customers.",
   },
 ];
 
