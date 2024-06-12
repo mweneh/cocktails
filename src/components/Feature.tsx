@@ -31,11 +31,8 @@ function Feature() {
             <Dash />
             <h2 className="font-medium text-xl">Amaretto Sour</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-            Amaretto is a sweet Italian liqueur known for its almond or apricot flavors. 
-            The Amaretto Sour is an easy cocktail to make, 
-            but it can often be overpowered by store-bought sweet and sour mix. 
-            The best way to make an Amaretto Sour is with fresh juice instead of the mix. Just like the base recipe for other sours, the Amaretto Sour is made with amaretto, lemon juice, and sugar — 
-            and you can also add the egg white if you like.
+            A sweet Italian liqueur known for its almond or apricot flavors. 
+            Amaretto Sour is made with amaretto, lemon juice, and sugar .
             </p>
           </div>
         </div>
@@ -54,9 +51,8 @@ function Feature() {
             <Dash />
             <h2 className="font-medium text-xl">Bloody Mary</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-            A classic brunch cocktail, the Bloody Mary is traditionally made with vodka, tomato juice, Worcestershire sauce, black pepper, celery salt, 
-            Tabasco, and lemon juice. There are numerous renditions that use different types of alcohol. 
-            The best part about the Bloody Mary is its garnish — you can top this cocktail with almost anything, like bacon, pickles, and even cheeseburger sliders.
+            A classic brunch cocktail,made with vodka, tomato juice, Worcestershire sauce, black pepper, celery salt, 
+            Tabasco, and lemon juice. Numerous renditions use different types of alcohol! 
             </p>
           </div>
         </div>
@@ -75,10 +71,9 @@ function Feature() {
             <Dash />
             <h2 className="font-medium text-xl">Mai Tai</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-            The Mai Tai is made with rum, orange curaçao, orgeat (almond syrup), 
-            and lime juice and is one of the most famous tiki cocktails in the world. 
-            This cocktail was created in the San Francisco Bay Area, although there are two stories on how it originated. Both Victor J. Bergeron (Trader Vic) and Donn Beach claim to have invented the Mai Tai. 
-            No matter who created it, this tiki drink is paradise in a glass.
+            Made with rum, orange curaçao, orgeat (almond syrup), 
+            and lime juice. 
+            This cocktail was created in the San Francisco Bay Area.
             </p>
           </div>
         </div>
