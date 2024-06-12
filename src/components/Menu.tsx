@@ -6,30 +6,30 @@ import MenuCard from "./MenuCard";
 const menuData = [
   {
    title:"110 in the shade",
-   img:"",
+   img:"/shade.jpg",
    price:"$10.5",
    desc:"Description"
   },
   {
-    img: "",
+    img: "magarita.jpg",
     title: "Magarita",
     desc: "Tequila,Triple sec,Lime , Contemporary Classics, Alcoholic,Cocktail glass",
     price: "$9.50",
   },
   {
-    img: "",
+    img: "/island.jpg",
     title: "3-Mile Long Island Iced Tea",
     desc: "Alcoholic,Collins Glass, Tequila, Triple sec, light rum, vodka, lemon, sweet sour gin, cola",
     price: "$12.50",
   },
   {
-    img: "",
+    img: "/screwed.jpg",
     title: "Absolutly Screwed Up",
     desc: "Ginger ale, Orange juice,Absolut Citron, triple sec",
     price: "$9.50",
   },
   {
-    img: "",
+    img: "/alice.jpg",
     title: "Alice in Wonderland",
     desc: "Amaretto, Southern comfort,  Grand marnier",
     price: "$13.50",
