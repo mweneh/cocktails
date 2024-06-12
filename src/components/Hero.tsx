@@ -16,7 +16,7 @@ function Hero() {
 
         <div className='container h-[calc(100vh-120vpx)] grid items-center '>
           <div className=' space-y-4 bg-[#ffffff98] w-fit p-4 '>
-            <p className='uppercase font-medium'> More choices to make</p>
+            <p className='uppercase font-medium'>throats are open!</p>
             <h2 className='text-4xl sm:text-6xl font-bold'>
               Crispy  <span className=' text-accent'> Fresh</span>
             </h2>

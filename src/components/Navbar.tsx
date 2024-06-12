@@ -6,12 +6,15 @@ function Navbar() {
   return (
     <nav className='container pt-6'>
         <div className='flex justify-between items-center'>
-            <Image  src='/logo.png' width={50} height={50} alt='logo'/>
+            <Image  src='/logo.png' width={100} height={100} alt='logo'/>
             <ul className="md:flex text-white gap-8 items-center font-semibold text-[16px] hidden">
-                <li> Home</li>
-                <li> About </li>
-                <li> Drinks</li>
-                <li> Contact</li>
+                <li> 
+                <a href="/contact" className="hover:text-accent">Home</a>
+                </li>
+                <li> 
+                <a href="/contact" className="hover:text-accent">About</a> </li>
+                <li> <a href="/contact" className="hover:text-accent">Drinks</a></li>
+                <li> <a href="/contact" className="hover:text-accent">Contact</a></li>
 
                 <button className='bg-accent text-white px-6 py-2 rounded-3xl'> SignUp</button>
             </ul>
