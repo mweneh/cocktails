@@ -5,12 +5,13 @@ import { BsTwitterX } from "react-icons/bs";
 const Footer = () => {
     const currentYear = new Date().getFullYear();
   return (
-    <div className="pt-40 container">
+    <div className="pt-10 container bg-[#304146] text-white">
       <div className="grid md:grid-cols-3 gap-16">
         <div className="space-y-4">
           <h2 className="text-xl font-bold">Our Location</h2>
           <p className="leading-[1.8]">
-            Klub House,
+            Klub House
+            <br/>
           Parklands Road, Westlands
           Nairobi, Kenya
           </p>
