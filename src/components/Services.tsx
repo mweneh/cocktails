@@ -5,37 +5,38 @@ import ServicesCard from "./ServicesCard";
 const servicesData = [
   {
     img: "/services__1.png",
-    title: "Professonal Kitchen",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
+    title: "Professional Mixology",
+    desc: "Our expert mixologists craft unique and delicious cocktails tailored to your tastes, using only the finest ingredients.",
   },
   {
     img: "/services__2.png",
     title: "Delivery",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
+    desc: "Enjoy our exquisite cocktails delivered straight to your door. Perfect for parties, events, or a relaxing evening at home.",
   },
   {
     img: "/services__3.png",
     title: "Wine List",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
+    desc: "Discover our curated selection of fine wines from around the world, each chosen to complement our cocktail offerings.",
   },
   {
     img: "/services__4.png",
-    title: "Free Wifi",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
+    title: "Free WiFi",
+    desc: "Stay connected while you enjoy our drinks. Our venue offers free WiFi for all customers, making it a great place to work or socialize.",
   },
 ];
+
 
 const Services = () => {
   return (
     <div className="container pt-40">
       <div className="space-y-4 w-fit mx-auto text-center">
         <h2 className="text-4xl md:text-6xl font-bold">
-          Choose Best <span className="text-accent">Service</span>
+          Choose a <span className="text-accent">Service</span>
         </h2>
         <p className="text-gray-700">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolorem
-          <br />
-          quidem esse eum animi?
+        A neighbourhood joint with good music, 
+        <br/>
+        affordable drinks and fantastic food that leaves you wanting more 
         </p>
         <div className="w-fit mx-auto">
           <Dash />

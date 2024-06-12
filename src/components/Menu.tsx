@@ -45,9 +45,9 @@ const Menu = () => {
           Our <span className="text-accent">Menu</span>
         </h2>
         <p className="text-gray-700">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dolorem
+          The playbook?
           <br />
-          quidem esse eum animi?
+          Let us play
         </p>
         <div className="w-fit mx-auto">
           <Dash />
