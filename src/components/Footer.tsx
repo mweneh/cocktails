@@ -51,7 +51,7 @@ const Footer = () => {
       </div>
 
       <div className="w-fit mx-auto pt-16 pb-8 text-[14px] sm:text-[16px]">
-        &copy; Copyright {currentYear} All rights reserved
+        &copy; Copyright {currentYear}. All rights reserved
       </div>
     </div>
   );
